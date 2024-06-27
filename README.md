@@ -1,2 +1,2 @@
 # java-programs
-core java practice programs
+Core java practice programs
